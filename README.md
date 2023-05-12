@@ -9,5 +9,7 @@
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=black"> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black">
 
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 ![화면 캡처 2023-04-28 115228](https://user-images.githubusercontent.com/131989040/235043101-948174df-2410-4cf2-b5cf-1776dcba6dec.png)
