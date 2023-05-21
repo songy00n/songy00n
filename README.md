@@ -1,4 +1,5 @@
 <div align="left">
+  👀✨ currently taking <font color="#04B486">Digital Hanaro Financial Services Developer Program</font>
   
 프로젝트 목록 | 일자 | 사용기술 | 링크
 ------------|------|-------|-----|
