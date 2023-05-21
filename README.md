@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariadb-0035451?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"><br><br>
 👩‍💻<strong>TOOLS</strong><br><br>
 <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studiio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br><br>
-👩‍💻<strong>BLOG</strong><br><br>
-<a href="https://velog.io/@greenclover"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a>
+👩‍💻<strong>BLOG</strong><br>
+<a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a>
 
   
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
