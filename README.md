@@ -1,6 +1,6 @@
 <div align="left">
-  👀✨ currently taking <font color="#04B486">Digital Hanaro Financial Services Developer Program</font>
-  
+  👀✨&nbsp;currently taking Digital Hanaro Financial Services Developer Program
+ <br>
 프로젝트 목록 | 일자 | 사용기술 | 링크
 ------------|------|-------|-----|
 금융상품서비스 | 2023 | Node | [프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)
