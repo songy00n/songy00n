@@ -20,7 +20,5 @@
   
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user='songy00n'&repo='FrontEnd')]('https://github.com/Hanaro-FirstAssignment-Team2/FrontEnd.git')
-  
+ 
  </div>
