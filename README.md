@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> <img src="https://img.shields.io/badge/mariadb-0035451?style=for-the-badge&logo=mariadb&logoColor=black"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=black"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=black"><br><br>
 👩‍💻<strong>TOOLS</strong><br>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=black"> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=black">
-<br><br>
+<br>
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
