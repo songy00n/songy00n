@@ -15,7 +15,5 @@
   
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=songy00n)](https://github.com/songy00n/github-profile-trophy)
 
  </div>
