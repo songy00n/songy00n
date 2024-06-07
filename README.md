@@ -1,8 +1,5 @@
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Digital+Hanaro++Financial+Services+Developer+Program" alt="Typing SVG" /></a>
-
-<span style="font: bold 1.5em/1em Georgia, serif ; color: #04C085FF;">Digital Hanaro Financial Services Developer Program</span>
- 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Digital+Hanaro++Financial+Services+Developer+Program" alt="Typing SVG" /></a> 
 <br><br>
  🔗&nbsp;<strong>PORTFOLIO SITE</strong>&nbsp;&nbsp;https://songy00n.github.io/
 <br><br>
