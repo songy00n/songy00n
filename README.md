@@ -21,12 +21,12 @@ LIST | DATE | SKILLS
 <a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover&slug=고급-SQL)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
-
+<br>
 🏆&nbsp;<strong>ALGORITHM</strong><br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
-<br><br>
-🔩&nbsp;<strong>GIT</strong><br><br>
+<br><br><br>
+🔩&nbsp;<strong>GIT</strong><br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
  </div>
