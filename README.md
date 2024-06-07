@@ -19,7 +19,9 @@ LIST | DATE | SKILLS
 <br><br><br>
 🍀&nbsp;<strong>BLOG</strong><br><br>
 <a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
+
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
   
