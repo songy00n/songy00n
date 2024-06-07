@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Currently+taking+Digital+Hanaro++Financial+Services+Developer+Program!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Digital+Hanaro++Financial+Services+Developer+Program" alt="Typing SVG" /></a>
 <br><br>
   
 프로젝트 목록 | 일자 | 사용기술 | 링크
