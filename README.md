@@ -3,9 +3,9 @@
 <br><br>
  🔗&nbsp;<strong>PORTFOLIO SITE</strong>&nbsp;&nbsp;https://songy00n.github.io/
 <br><br>
-📑&nbsp;<strong>PROJECT</strong><br>
+📑&nbsp;<strong>PROJECT</strong><br><br>
  
-프로젝트 목록 | 일자 | 사용 기술 
+LIST | DATE | SKILLS 
 ------------|------|-------
 [하나증권 Lite](https://github.com/Hanaro-FirstAssignment-Team2/FrontEnd) | 2023 | HTML, CSS, JS 
 [하나로 고객 통지 서비스](https://github.com/hanaro-messaging-service/backend) | 2023 | HTML, CSS, JSP, MySQL 
