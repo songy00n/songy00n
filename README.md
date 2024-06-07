@@ -22,8 +22,6 @@ LIST | DATE | SKILLS
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover&slug=고급-SQL)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
 
-![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Solved.ac
