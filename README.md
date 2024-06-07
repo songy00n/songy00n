@@ -18,7 +18,7 @@ LIST | DATE | SKILLS
  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studiio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <br><br><br>
 🍀&nbsp;<strong>BLOG</strong><br><br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover&slug=고급-SQL)](https://github.com/eungyeole/velog-readme-stats)
+<a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a><br><br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
   
