@@ -1,8 +1,8 @@
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Digital+Hanaro++Financial+Services+Developer+Program" alt="Typing SVG" /></a>
 <br><br>
- 🔗[PORTFOLIO SITE](https://github.com/Hanaro-FirstAssignment-Team2/FrontEnd)
- <br>
+ 🔗<strong>PORTFOLIO SITE</div>strong>&nbsp;(https://github.com/Hanaro-FirstAssignment-Team2/FrontEnd)
+ <br> <br>
  
 📑<strong>PROJECT</strong><br><br>
  
