@@ -22,7 +22,7 @@ LIST | DATE | SKILLS
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover&slug=고급-SQL)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
 
-🏆&nbsp;<strong>TIER</strong><br><br>
+🏆&nbsp;<strong>TIER</strong><br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
 <br><br>
