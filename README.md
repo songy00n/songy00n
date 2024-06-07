@@ -21,11 +21,10 @@ LIST | DATE | SKILLS
 <a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a><br><br>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
   
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
 
-  
  </div>
