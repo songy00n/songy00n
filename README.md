@@ -1,13 +1,9 @@
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=700&pause=1000&color=04C085FF&width=630&lines=Digital+Hanaro++Financial+Services+Developer+Program" alt="Typing SVG" /></a>
 <br><br>
- 🔗&nbsp;<strong>PORTFOLIO SITE</strong>&nbsp;https://songy00n.github.io/
-
- <a href="https://songy00n.github.io/" target="_blank"> 🔗&nbsp;<strong>PORTFOLIO SITE</strong></a>
- 
- <br> <br>
- 
-📑&nbsp;<strong>PROJECT</strong><br>
+ 🔗&nbsp;<strong>PORTFOLIO SITE</strong>&nbsp;&nbsp;https://songy00n.github.io/
+ <br> 
+📁&nbsp;<strong>PROJECT</strong><br>
  
 프로젝트 목록 | 일자 | 사용 기술 
 ------------|------|-------
