@@ -24,13 +24,8 @@ LIST | DATE | SKILLS
   
 ![songy00n's GitHub stats](https://github-readme-stats.vercel.app/api?username=songy00n&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-<center>
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)</center>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
   
  </div>
