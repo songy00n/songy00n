@@ -18,8 +18,7 @@ LIST | DATE | SKILLS
  <img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studiio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <br><br><br>
 🍀&nbsp;<strong>BLOG</strong><br><br>
-<a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a><br><br>
-
+<a href="https://velog.io/@greenclover" target="_blank"><img src="https://img.shields.io/badge/velog-6DB33F?style=for-the-badge&logo=velog&logoColor=white"></a>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=greenclover)](https://velog.io/@greenclover/%EA%B3%A0%EA%B8%89-SQL)
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
