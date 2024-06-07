@@ -5,7 +5,7 @@
 <br><br>
 📑&nbsp;<strong>PROJECT</strong><br><br>
  
-LIST | DATE | SKILLS 
+PROJECT | DATE | SKILLS 
 ------------|------|-------
 [하나증권 Lite](https://github.com/Hanaro-FirstAssignment-Team2/FrontEnd) | 2023 | HTML, CSS, JS 
 [하나로 고객 통지 서비스](https://github.com/hanaro-messaging-service/backend) | 2023 | HTML, CSS, JSP, MySQL 
