@@ -26,8 +26,11 @@ LIST | DATE | SKILLS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songy00n&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
+
+<center>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)</center>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
   
  </div>
