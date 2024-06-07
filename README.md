@@ -26,7 +26,7 @@ LIST | DATE | SKILLS
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eekmyung)](https://solved.ac/eekmyung)
 <br><br><br>
-📗&nbsp;<strong>GIT</strong><br><br>
+📟&nbsp;<strong>GIT</strong><br><br>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
  </div>
